@@ -1,4 +1,4 @@
-asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+asttokens==2.4.1
 blinker==1.7.0
 Boruta==0.3
 certifi==2024.2.2
