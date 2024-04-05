@@ -1,4 +1,6 @@
-# Rossmann Store Sales Prediction
+<center>
+  <h1>Rossmann Store Sales Prediction</h1>
+</center>
 
 ![imagem](img/img10.jpg)
 
