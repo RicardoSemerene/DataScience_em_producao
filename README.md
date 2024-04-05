@@ -1,4 +1,4 @@
-# Health Insurance Propensity Score
+# Rossmann Store Sales Prediction
 
 ![imagem](img/img10.jpg)
 
@@ -156,16 +156,14 @@ Realizando-se a somatória de cada loja, em cada cenário, conseguimos chegar a 
 
 Para facilitar a consulta das predições para cada loja, por parte da equipe de negócios, foi desenvolvido um Bot no app Telegram. Basta salvar o contato do Bot e fazer as requisições na API, local em que a aplicação está hospedada. Foi utilizado o serviço em nuvem do Render.  
 
-Abaixo, temos um vídeo rápido mostrando o funcionamento do Bot para algumas lojas. Atente-se que para lojas acima do número 1115, o bot fornece uma mensagem de erro, pois neste projeto trabalhamos apenas com as lojas de 1 a 1115. Atente-se também para o fato de que é necessário colocar uma "/" antes do número para que a requisição seja feita. 
+Abaixo, temos uma imagem explicativa a respeito do funcionamento do Bot para algumas lojas. Atente-se que para lojas acima do número 1115, o bot fornece uma mensagem de erro, pois neste projeto trabalhamos apenas com as lojas de 1 a 1115. Atente-se também para o fato de que é necessário colocar uma "/" antes do número para que a requisição seja feita. 
 
 Além disso, o bot avisará que uma loja não está disponível, quando for solicitado um número de loja ausente nos dados de teste utilizados neste projeto. Pra esses casos, a minoria, não foi possível realizar a predição.
 
 Para o funcionamento do bot, é necessário aguardar aproximadamente 3 minutos após a primeira requisição, pois a aplicação entra em um modo de espero quando não está sendo utilizada. Portanto, este tempo é necessário para que ela seja "despertada". [Clique aqui](https://t.me/ross_project_bot) para acessar o RossmanBot
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=a4le_xY4H5I&autoplay=1">
-    <img src="https://img.youtube.com/vi/a4le_xY4H5I/0.jpg" alt="RossmannBot" width="670" height="460">
-  </a>
+  <img src="img/img7.jpg" alt="Descrição da imagem">
 </p>
 
 # 8. Conclusions
