@@ -162,11 +162,11 @@ Além disso, o bot avisará que uma loja não está disponível, quando for soli
 
 Para o funcionamento do bot, é necessário aguardar aproximadamente 3 minutos após a primeira requisição, pois a aplicação entra em um modo de espero quando não está sendo utilizada. Portanto, este tempo é necessário para que ela seja "despertada". [Clique aqui](https://t.me/ross_project_bot) para acessar o RossmanBot
 
-<center>
-
-[![RossmannBot](https://img.youtube.com/vi/a4le_xY4H5I/0.jpg)](https://www.youtube.com/watch?v=a4le_xY4H5I)
-
-</center>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=a4le_xY4H5I?autoplay=1">
+    <img src="https://img.youtube.com/vi/a4le_xY4H5I/0.jpg" alt="RossmannBot" width="640" height="360">
+  </a>
+</p>
 
 # 8. Conclusions
 
@@ -185,6 +185,6 @@ Em projetos seguintes, além do que já foi feito, podem ser incrementados:
 
 # 10. References
 
-Foto capa: [Daily News Hungary](https://dailynewshungary.com/another-shopping-chain-to-be-closed-on-24-december-in-hungary/)
-Datasets: [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales)
+- Foto capa: [Daily News Hungary](https://dailynewshungary.com/another-shopping-chain-to-be-closed-on-24-december-in-hungary/)
+- Datasets: [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales)
 
